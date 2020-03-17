@@ -1,2 +1,2 @@
-# perrymind.github.io
-Perry的日常狂想
+# Perry的日常狂想
+## 一个老年人的记录
